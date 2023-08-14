@@ -40,7 +40,18 @@ This command will install necessary package to run the peoject
 pnpm dev
 ```
 
+# Route of project
+
+- /login => login page
+- /register => register page
+- /schedule => schedule management
+
 # Image
 
 ![scheduletimeline](./public/scheduletimeline.png)
+
 ![Modal Add Edit](./public/modal-add-edit.png)
+
+![Login Page](./public/login.png)
+
+![Modal Add Edit](./public/register.png)
